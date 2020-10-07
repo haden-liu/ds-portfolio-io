@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Haden Liu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/download.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Sydney, Australia"
   email            :
@@ -286,6 +286,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
 
 
